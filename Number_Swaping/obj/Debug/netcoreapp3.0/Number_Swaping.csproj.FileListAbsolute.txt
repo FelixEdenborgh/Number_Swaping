@@ -1,0 +1,11 @@
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\bin\Debug\netcoreapp3.0\Number_Swaping.exe
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\bin\Debug\netcoreapp3.0\Number_Swaping.deps.json
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\bin\Debug\netcoreapp3.0\Number_Swaping.runtimeconfig.json
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\bin\Debug\netcoreapp3.0\Number_Swaping.runtimeconfig.dev.json
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\bin\Debug\netcoreapp3.0\Number_Swaping.dll
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\bin\Debug\netcoreapp3.0\Number_Swaping.pdb
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\obj\Debug\netcoreapp3.0\Number_Swaping.csprojAssemblyReference.cache
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\obj\Debug\netcoreapp3.0\Number_Swaping.AssemblyInfoInputs.cache
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\obj\Debug\netcoreapp3.0\Number_Swaping.AssemblyInfo.cs
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\obj\Debug\netcoreapp3.0\Number_Swaping.dll
+C:\Users\Felix\Documents\C# Prodjects\Number_Swaping\obj\Debug\netcoreapp3.0\Number_Swaping.pdb
